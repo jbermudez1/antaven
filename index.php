@@ -14,18 +14,7 @@
           Free Quote
        </div>
        <section id="banner">
-       		<div class="container logoMenu">
-       			<div class="logo">
-              <img src="img/logo.png">
-            </div>
-       			<ul class="menu">
-       				<li><a href="#">HOME</a></li>
-              <li>ABOUT US</li>
-       				<li>SERVICES</li>
-              <li>BENEFITS</li>
-              <li>CONTACS</li>
-       			</ul>
-       		</div>
+       		<?php include('header.php') ?>
           <div class="container">
               <h1>Advanced solutions <br> Advance your business.</h1>
           </div>
