@@ -132,7 +132,7 @@ html {
   font-size: 1em;
 }
 #aboutus .about {
-  padding-right: 5em;
+  padding-left: 30%;
   font-size: 1.5em;
   color: #8b8b8b;
 }
@@ -148,4 +148,25 @@ html {
 #aboutus .frase {
   text-align: center;
   font-size: 1.8em;
+  color: #2172c6;
+}
+#aboutus .services {
+  font-size: 1.2em;
+  text-align: center;
+}
+#aboutus .cen {
+  text-align: center;
+  padding-top: 1.5em;
+}
+#aboutus .masinfo {
+  color: #2172c6;
+}
+#aboutus .testlab {
+  font-size: 1.3em;
+}
+#aboutus .tit2 {
+  color: #2172c6;
+  font-size: 1.5em;
+  padding-bottom: 0.5em;
+  padding-top: 0.5em;
 }
