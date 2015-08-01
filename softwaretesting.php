@@ -18,10 +18,10 @@
        </section>
        <section id="aboutus">
        		<div class="container">
-            <div class="tit">OUR SERVICES / SOFTWARE TESTING & QUALITY ASSURANCE SERVICES</div>
+            <div class="tit"><a href="services.php">OUR SERVICES</a> / SOFTWARE TESTING & QUALITY ASSURANCE SERVICES</div>
             <div class="row">
               <div class="col-sm-4">
-                imagen
+                <img src="img/qa.jpg" class="img-responsive">
               </div>
               <div class="col-sm-8">
                   The constant technological development growth and the need to rely on high quality software products often causes companies to incur in large expenses related to staff hiring, training of existing staff, as well as the dedication of valuable time to research and development. <br><br>

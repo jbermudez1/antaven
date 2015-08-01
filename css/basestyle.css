@@ -170,3 +170,8 @@ html {
   padding-bottom: 0.5em;
   padding-top: 0.5em;
 }
+#aboutus .tex {
+  text-align: center;
+  font-size: 1.8em;
+  color: #8b8b8b;
+}

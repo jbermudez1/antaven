@@ -30,12 +30,12 @@
                 <div class="col-sm-4 servicios">
                   <img src="img/qa1.png">
                   <p class="services">SOFTWARE APLICATION <br>RELATED SERVICES</p>
-                  <p class="masinfo"><a href="#">Más información.</a></p>
+                  <p class="masinfo"><a href="aplication.php">Más información.</a></p>
                 </div>
                 <div class="col-sm-4 servicios">
                   <img src="img/qa3.png">
                   <p class="services">BUSINESS PROCESS <br>OUTSOURCING </p>
-                  <p class="masinfo"><a href="#">Más información.</a></p>
+                  <p class="masinfo"><a href="outsourcing.php">Más información.</a></p>
                 </div>
 
             </div>

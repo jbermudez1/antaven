@@ -6,7 +6,7 @@
        				<li><a href="index.php">HOME</a></li>
               <li><a href="aboutus.php">ABOUT US</a></li>
        				<li><a href="services.php">SERVICES</a></li>
-              <li>BENEFITS</li>
+              <li><a href="benefits.php">BENEFITS</a></li>
               <li>CONTACS</li>
        			</ul>
 </div>
