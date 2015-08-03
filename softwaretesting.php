@@ -109,7 +109,7 @@
                 Network Testing is the actual measurement and recording of a network's state of operation over a period of time. On the other hand, distributed testing can be basically understood as test cases consisting of two or more parts that interact with each other; each part being processed on a different system. It is the interaction between the different test case components that sets distributed testing apart. Typically it is this interaction between different computer systems that is under test.
               </div>
               <div class="col-sm-5">
-                imagen
+                <img src="img/testing.jpg" class="img-responsive">
               </div>
             </div>
             <div class="tit">TESTING METHODOLOGY</div> 

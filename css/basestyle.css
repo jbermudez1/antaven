@@ -6,6 +6,9 @@ html {
   padding: 0;
   height: 100%;
 }
+a:hover {
+  text-decoration: none;
+}
 .quote {
   position: fixed;
   z-index: 99;

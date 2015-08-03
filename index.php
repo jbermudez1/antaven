@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-       <title>Título</title>
+       <title>Antaven</title>
        <meta charset="UTF-8" />
        <meta name="viewport" content="width=device-width, user-scalable=no">
        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
@@ -24,18 +24,28 @@
        			<p class="sectionTitle">Software QA & <br><span>Validation Service</span> </p>
             <div class="row ">
                 <div class="col-sm-4 servicios">
-                  <img src="img/qa2.png">
-                  <p class="title">SOFTWARE TESTING & QUALITY ASSURANCE SERVICES</p>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                  tempor incididunt ut labore et dolore magna aliqua.</p>
+                  <a href="softwaretesting.php">
+                    <img src="img/qa2.png">
+                    <p class="title">SOFTWARE TESTING & QUALITY ASSURANCE SERVICES</p>
+                    <p>Maximize the benefits of having a testing area, without incurring costs in maintenance, 
+                      planning complexity, execution and human resources availability.</p>
+                  </a>
                 </div>
                 <div class="col-sm-4 servicios">
-                  <img src="img/qa1.png">
-                  <p class="title">SOFTWARE APLICATION RELATED SERVICES</p>
+                  <a href="aplication.php">
+                    <img src="img/qa1.png">
+                    <p class="title">SOFTWARE APLICATION RELATED SERVICES</p>
+                    <p>Effective software development through the implementation of best engineering practices, 
+                      strong quality assurance processes and industry standard project management methodologies.</p>
+                  </a>
                 </div>
                 <div class="col-sm-4 servicios">
-                  <img src="img/qa3.png">
-                  <p class="title">BUSINESS PROCESS OUTSOURCING </p>
+                  <a href="outsourcing.php">
+                    <img src="img/qa3.png">
+                    <p class="title">BUSINESS PROCESS OUTSOURCING </p>
+                    <p>Application development service centered on creating quality solutions that meet
+                      the specific needs of every client, its market and its business strategy.</p>
+                  </a>
                 </div>
 
             </div>
