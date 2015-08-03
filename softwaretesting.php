@@ -7,6 +7,7 @@
        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
        <link rel="stylesheet" type="text/css" href="css/responsive.css">
        <link rel="stylesheet" type="text/css" href="css/basestyle.css">
+       <link rel="stylesheet" type="text/css" href="css/medias.css">
   </head>
 
   <body>
@@ -23,7 +24,7 @@
               <div class="col-sm-4">
                 <img src="img/qa.jpg" class="img-responsive">
               </div>
-              <div class="col-sm-8">
+              <div class="col-sm-8 espacio">
                   The constant technological development growth and the need to rely on high quality software products often causes companies to incur in large expenses related to staff hiring, training of existing staff, as well as the dedication of valuable time to research and development. <br><br>
                   The outsourcing of infrastructure, human resources and testing tools enables clients to maximize the benefits of having a testing area, without incurring costs in maintenance, planning complexity, execution and human resources availability. For those companies that do not want to have an inhouse testing area and prioritize cost reduction and the high professionalism of human teams, Antaven proposes the outsourcing of services related to “Project Testing.” <br><br>
                   Antaven's Nearshore Software Testing Service provides a level of confidence in the software, ensuring that the software is tested, has an acceptable defect rate, and high quality. It is an integral and critical phase of software development project. Antaven's domain experience makes it a recognized name for nearshore software testing. 

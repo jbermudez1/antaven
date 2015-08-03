@@ -5,16 +5,20 @@
        <meta charset="UTF-8" />
        <meta name="viewport" content="width=device-width, user-scalable=no">
        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+       <link rel="stylesheet" type="text/css" href="css/medias.css">
        <link rel="stylesheet" type="text/css" href="css/responsive.css">
        <link rel="stylesheet" type="text/css" href="css/basestyle.css">
+
   </head>
 
   <body>
        <div class="quote">
           Free Quote
        </div>
-       <section id="banner">
+       <section id="banner" >
+        
        		<?php include('header.php') ?>
+   
           <div class="container">
               <h1>Advanced solutions <br> Advance your business.</h1>
           </div>
@@ -54,11 +58,11 @@
        <section id="benefits">
        		<div class="container">
        			<p class="sectionTitle">Some Achieved Benefits <br><span>Of our Costumers</span> </p>
-            <div class="row">
+            <div class="row centro">
                 <div class="col-sm-6">
                   <div class="row">
                     <div class="col-sm-3">
-                      <img class="img-responsive" src="img/a1.png">
+                      <img  src="img/a1.png">
                     </div>
                     <div class="col-sm-9">
                       <p class="title">-35%</p>

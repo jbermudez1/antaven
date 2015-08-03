@@ -1,0 +1,24 @@
+@media (max-width: 768px) {
+	.sectionTitle{
+    	line-height: 3em;
+    }
+   
+    .centro{
+    	text-align: center;
+    }
+    /*---- en about us----*/
+    .about{
+    	padding-left: 0%;
+
+    }
+    /*---- en los servicios----*/
+    .tit{
+    	font-size: 1em;
+    }
+    .espacio{
+    	padding-top: 1em;
+    }
+    .tex{
+    	font-size: 1.2em;
+    }
+ }

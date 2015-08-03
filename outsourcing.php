@@ -18,13 +18,13 @@
        </section>
        <section id="aboutus">
        		<div class="container">
-            <div class="tit"><a href="services.php">OUR SERVICES</a> / BUSINESS PROCESS OUTSOURCING</div>
+            <div class="tit espacio"><a href="services.php">OUR SERVICES</a> / BUSINESS PROCESS OUTSOURCING</div>
             <div class="row">
               <div class="col-sm-4">
                 <img src="img/business.jpg" class="img-responsive">
               </div>
               <div class="col-sm-8">
-                  <p class="testlab">Every company has its own needs, interests, and problems. </p>
+                  <p class="testlab"><strong>Every company has its own needs, interests, and problems.</strong> </p>
                   <br><br>
                   <p>These differences have their origin in their business features and particularities and, 
                   definitively, in the reality of the market they belong to. 
