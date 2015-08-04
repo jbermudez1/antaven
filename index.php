@@ -20,7 +20,7 @@
        		<?php include('header.php') ?>
    
           <div class="container">
-              <h1>Advanced solutions <br> Advance your business.</h1>
+              <h1 class="msg">Advanced solutions <br> Advance your business.</h1>
           </div>
        </section>
        <section id="services">
@@ -127,12 +127,13 @@
             </div>
        		</div>
        </section>
-       <section id="contact">
+<!--        <section id="contact">
        		<div class="container">
        			conta
        		</div>
-       </section>
+       </section> -->
        <footer>
+        <?php include('footer.php') ?>
        </footer>
        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>

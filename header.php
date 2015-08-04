@@ -1,8 +1,8 @@
 <div class="container logoMenu">
        			<div class="logo">
-              <img src="img/logo.png">
+              <a href="index.php"><img src="img/logo.png"></a>
             </div>
-       			<ul class="menu">
+       			<ul class="menu hidden-xs">
        				<li><a href="index.php">HOME</a></li>
               <li><a href="aboutus.php">ABOUT US</a></li>
        				<li><a href="services.php">SERVICES</a></li>

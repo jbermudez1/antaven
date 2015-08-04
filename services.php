@@ -25,28 +25,75 @@
                 <div class="col-sm-4 servicios">
                   <img src="img/qa2.png">
                   <p class="services">SOFTWARE TESTING & <br>QUALITY ASSURANCE SERVICES</p>
-                  <p class="masinfo"><a href="softwaretesting.php">Más información.</a></p>
+                  <p class="masinfo"><a href="softwaretesting.php">More information.</a></p>
                 </div>
                 <div class="col-sm-4 servicios">
                   <img src="img/qa1.png">
                   <p class="services">SOFTWARE APLICATION <br>RELATED SERVICES</p>
-                  <p class="masinfo"><a href="aplication.php">Más información.</a></p>
+                  <p class="masinfo"><a href="aplication.php">More information.</a></p>
                 </div>
                 <div class="col-sm-4 servicios">
                   <img src="img/qa3.png">
                   <p class="services">BUSINESS PROCESS <br>OUTSOURCING </p>
-                  <p class="masinfo"><a href="outsourcing.php">Más información.</a></p>
+                  <p class="masinfo"><a href="outsourcing.php">More information.</a></p>
                 </div>
 
             </div>
+            <hr>
+            <!--  -->
+              <div class="media">
+                <div class="media-left">
+                  <a href="#">
+                    <span class="glyphicon glyphicon-asterisk" aria-hidden="true"></span>
+                  </a>
+                </div>
+                <div class="media-body">
+                  <h4 class="media-heading">Outsourcing Companies provide skilled team of testers</h4>
+                    Allocation of resources is being questioned.
+                </div>
+              </div>
+            <!--  -->
+              <div class="media">
+                <div class="media-left">
+                  <a href="#">
+                    <span class="glyphicon glyphicon-asterisk" aria-hidden="true"></span>
+                  </a>
+                </div>
+                <div class="media-body">
+                  <h4 class="media-heading">Reduce Expenses with Resources</h4>
+                    Only 5% of organizations are facing increase in the QA budget.
+                </div>
+              </div>
+            <!--  -->
+              <div class="media">
+                <div class="media-left">
+                  <a href="#">
+                    <span class="glyphicon glyphicon-asterisk" aria-hidden="true"></span>
+                  </a>
+                </div>
+                <div class="media-body">
+                  <h4 class="media-heading">Better Software Quality</h4>
+                    Poor historic performance: 67% of new IT projects are not successful
+                </div>
+              </div>
+            <!--  -->
+              <div class="media">
+                <div class="media-left">
+                  <a href="#">
+                    <span class="glyphicon glyphicon-asterisk" aria-hidden="true"></span>
+                  </a>
+                </div>
+                <div class="media-body">
+                  <h4 class="media-heading">Faster Time to market</h4>
+                  Only 16% of Software projects are completed on time and on budget.
+                </div>
+              </div>
+
        		</div>
        </section>
-       <section id="contact">
-       		<div class="container">
-       			conta
-       		</div>
-       </section>
+
        <footer>
+        <?php include('footer.php') ?>
        </footer>
        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>

@@ -36,10 +36,10 @@ a:hover {
 }
 #banner h1 {
   color: #fff;
-  font-size: 3.5em;
+  font-size: 2.5em;
   font-weight: 300;
   text-align: center;
-  padding-top: 2em;
+  padding-top: 0.5em;
 }
 .banner2 {
   min-height: 100px;
@@ -53,6 +53,7 @@ a:hover {
 }
 #benefits {
   background-color: #f4f4f4;
+  text-align: center;
 }
 .logoMenu {
   padding-top: 1em;
@@ -62,6 +63,10 @@ a:hover {
   display: -ms-flexbox;
   display: box;
   display: flex;
+}
+.logoMenu .logo {
+  text-align: center;
+  width: 100%;
 }
 .menu {
   float: right;
@@ -89,6 +94,9 @@ a:hover {
   width: 20%;
   text-align: center;
   position: relative;
+}
+.menu li a:hover {
+  color: #ff0;
 }
 .menu li:after {
   content: "";
@@ -132,10 +140,10 @@ a:hover {
 }
 #aboutus {
   padding-top: 2em;
+  padding-bottom: 2em;
   font-size: 1em;
 }
 #aboutus .about {
-  padding-left: 30%;
   font-size: 1.5em;
   color: #8b8b8b;
 }
@@ -144,7 +152,7 @@ a:hover {
 }
 #aboutus .tit {
   color: #a7bcd1;
-  font-size: 3em;
+  font-size: 2em;
   padding-bottom: 1em;
   padding-top: 1em;
 }
@@ -177,4 +185,51 @@ a:hover {
   text-align: center;
   font-size: 1.8em;
   color: #8b8b8b;
+}
+.media .glyphicon {
+  font-size: 3em;
+}
+footer {
+  text-align: center;
+  padding-top: 1em;
+  padding-bottom: 0.5em;
+  background-color: #293f6e;
+  background-image: url("../img/footer.png");
+  min-height: 20%;
+  color: #fff;
+}
+footer a {
+  color: #ff0;
+}
+footer img {
+  width: 50%;
+}
+footer .view {
+  background-color: transparent;
+  border: solid 1px #fff;
+  padding: 0.8em;
+  display: inline-block;
+  cursor: pointer;
+  color: #fff;
+}
+footer .view:hover {
+  background-color: #fff;
+  color: #293f6e;
+}
+@media (min-width: 768px) {
+  #banner .msg {
+    font-size: 3em;
+    padding-top: 15%;
+  }
+  #benefits,
+  footer {
+    text-align: left;
+  }
+  footer .dos {
+    text-align: right;
+  }
+  .logoMenu,
+  .logo {
+    width: none;
+  }
 }

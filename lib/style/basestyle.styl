@@ -2,7 +2,9 @@
 @import url('http://fonts.googleapis.com/css?family=Roboto:400,300,700')
 
 @import 'nib'
+
 $baseColor = #58acd1
+$darkColor = #293f6e
 body, html
 	font-family 'Roboto', sans-serif
 	margin 0
@@ -31,10 +33,10 @@ a:hover
 	background-size cover
 	h1
 		color white
-		font-size 3.5em
+		font-size 2.5em
 		font-weight 300
 		text-align center
-		padding-top 2em
+		padding-top 0.5em
 		
 .banner2
 	min-height 100px
@@ -46,10 +48,14 @@ a:hover
 
 #benefits 
 	background-color #f4f4f4
+	text-align center
 
 .logoMenu 
 	padding-top 1em
 	display flex
+	.logo
+		text-align center
+		width 100%
 
 .menu 
 	float right
@@ -66,6 +72,9 @@ a:hover
 		width (100% / 5)
 		text-align center
 		position relative
+		a 
+			&:hover
+				color yellow
 		&:after
 			content ""
 			width 100%
@@ -107,9 +116,9 @@ a:hover
 
 #aboutus
 	padding-top 2em
+	padding-bottom 2em
 	font-size 1em
 	.about
-		padding-left 30%
 		font-size 1.5em
 		
 		color #8b8b8b
@@ -117,7 +126,7 @@ a:hover
 			color #2172c6
 	.tit
 		color #a7bcd1
-		font-size 3em	
+		font-size 2em	
 		padding-bottom 1em
 		padding-top 1em	
 	.frase
@@ -144,4 +153,31 @@ a:hover
 		font-size 1.8em
 		color #8b8b8b
 		
+.media
+	.glyphicon
+		font-size 3em
+footer
+	text-align center
+	padding-top 1em
+	padding-bottom 0.5em
+	a
+		color yellow
+	img
+		width 50%
+	background-color $darkColor
+	background-image url('../img/footer.png')
+	min-height 20%
+	color white
+	.view 
+		background-color transparent
+		border solid 1px white
+		padding 0.8em
+		display inline-block
+		cursor pointer
+		color white
+		&:hover
+			background-color white
+			color $darkColor
+	
 
+@import 'medias'
