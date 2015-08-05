@@ -1,3 +1,7 @@
+<div class="xsmenu visible-xs">
+  <div class="botonmenu"><span class="glyphicon glyphicon-menu-hamburger viewMenu" aria-hidden="true"></span></div>
+</div>
+
 <div class="container logoMenu">
        			<div class="logo">
               <a href="index.php"><img src="img/logo.png"></a>
