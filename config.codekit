@@ -1230,6 +1230,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/qa2-1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11130,
+		"inputAbbreviatedPath": "\/img\/qa2-1.png",
+		"outputAbbreviatedPath": "\/img\/qa2-1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/qa2.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1334,7 +1345,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Javier B",
+"lastSavedByUser": "Proyeccion1",
 "manualImportLinks": {
 	},
 "projectAttributes": {

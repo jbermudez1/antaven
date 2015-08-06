@@ -15,30 +15,31 @@
        <div class="quote">
           Free Quote
        </div>
+       
        <section id="banner" >
         
        		<?php include('header.php') ?>
    
           <div class="container">
-              <h1 class="msg">Advanced solutions <br> Advance your business.</h1>
+              <h1 class="msg">Advanced solutions, <br> Advance your business.</h1>
           </div>
        </section>
        <section id="services">
        		<div class="container">
-       			<p class="sectionTitle">Software QA & <br><span>Validation Service</span> </p>
+       			<p class="sectionTitle">Our Software Application & QA Services<br><span></span> </p>
             <div class="row ">
                 <div class="col-sm-4 servicios">
                   <a href="softwaretesting.php">
-                    <img src="img/qa2.png">
-                    <p class="title">SOFTWARE TESTING & QUALITY ASSURANCE SERVICES</p>
+                    <img src="img/qa1.png">
+                    <p class="title">SOFTWARE TESTING & QUALITY ASSURANCE</p>
                     <p>Maximize the benefits of having a testing area, without incurring costs in maintenance, 
                       planning complexity, execution and human resources availability.</p>
                   </a>
                 </div>
                 <div class="col-sm-4 servicios">
                   <a href="aplication.php">
-                    <img src="img/qa1.png">
-                    <p class="title">SOFTWARE APLICATION RELATED SERVICES</p>
+                    <img src="img/qa2.png">
+                    <p class="title">SOFTWARE APPLICATION DEVELOPMENT</p>
                     <p>Effective software development through the implementation of best engineering practices, 
                       strong quality assurance processes and industry standard project management methodologies.</p>
                   </a>
@@ -46,7 +47,7 @@
                 <div class="col-sm-4 servicios">
                   <a href="outsourcing.php">
                     <img src="img/qa3.png">
-                    <p class="title">BUSINESS PROCESS OUTSOURCING </p>
+                    <p class="title">SOFTWARE MAINTENANCE AND SUPPORT</p>
                     <p>Application development service centered on creating quality solutions that meet
                       the specific needs of every client, its market and its business strategy.</p>
                   </a>

@@ -27,6 +27,23 @@ a:hover {
   border: solid #fff 2px;
   border-style: dashed;
 }
+#arriba {
+  background-color: #b4b4b4;
+  text-align: right;
+  padding-top: 1em;
+}
+#arriba .datos {
+  float: right;
+  color: #fff;
+  display: inline;
+  list-style: none;
+ul
+  display: table;
+}
+#arriba .datos li {
+  display: table-cell;
+  padding-left: 2em;
+}
 #banner {
   min-height: 80%;
   background-image: url("../img/banner.png");
@@ -66,7 +83,7 @@ a:hover {
 }
 .logoMenu .logo {
   text-align: center;
-  width: 100%;
+  width: 50%;
 }
 .menu {
   float: right;
@@ -89,7 +106,7 @@ a:hover {
 }
 .menu li {
   list-style: none;
-  font-size: 1.2em;
+  font-size: 1em;
   font-weight: 300;
   width: 20%;
   text-align: center;
@@ -244,8 +261,10 @@ footer .view:hover {
   footer .dos {
     text-align: right;
   }
+}
+@media (min-width: 992px) {
   .logoMenu,
   .logo {
-    width: none;
+    width: 100%;
   }
 }
