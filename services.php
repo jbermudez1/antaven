@@ -23,12 +23,12 @@
             This constant improvement in our processes, methods and practices guarantee a product and service delivery consistent with customer expectations.
             <div class="row cen">
                 <div class="col-sm-4 servicios">
-                  <img src="img/qa2.png">
+                  <img src="img/qa1.png">
                   <p class="services">SOFTWARE TESTING & <br>QUALITY ASSURANCE SERVICES</p>
                   <p class="masinfo"><a href="softwaretesting.php">More information.</a></p>
                 </div>
                 <div class="col-sm-4 servicios">
-                  <img src="img/qa1.png">
+                  <img src="img/qa2.png">
                   <p class="services">SOFTWARE APLICATION <br>RELATED SERVICES</p>
                   <p class="masinfo"><a href="aplication.php">More information.</a></p>
                 </div>

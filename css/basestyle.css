@@ -67,9 +67,22 @@ ul
 }
 #services {
   text-align: center;
+  background-color: #f9f9f9;
+}
+#key ul {
+  float: left;
+  display: inline-block;
+  padding-top: 3em;
+  text-align: center;
+}
+#key ul li {
+  list-style: none;
+  display: inline-block;
+  padding-left: 1em;
+  padding-right: 1em;
 }
 #benefits {
-  background-color: #f4f4f4;
+  background-color: #f1f9fd;
   text-align: center;
 }
 .logoMenu {
@@ -141,12 +154,14 @@ ul
   color: #58acd1;
 }
 #services,
-#benefits {
+#benefits,
+#key {
   padding-top: 3em;
   padding-bottom: 3em;
 }
 #services .servicios .title,
-#benefits .servicios .title {
+#benefits .servicios .title,
+#key .servicios .title {
   font-size: 1em;
   font-weight: 700;
   color: #545454;
@@ -203,6 +218,9 @@ ul
   font-size: 1.8em;
   color: #8b8b8b;
 }
+#aboutus .titulo {
+  font-size: 1.4em;
+}
 .media .glyphicon {
   font-size: 3em;
 }
@@ -220,6 +238,18 @@ footer a {
 }
 footer img {
   width: 50%;
+}
+footer .titulo {
+  font-size: 1.4em;
+}
+footer .sm {
+ul
+  padding-top: 1em;
+}
+footer .sm li {
+  list-style: none;
+  display: inline-block;
+  width: 30%;
 }
 footer .view {
   background-color: transparent;

@@ -56,6 +56,20 @@
             </div>
        		</div>
        </section>
+       <section id="key">
+        <div class="container">
+          <p class="sectionTitle">Technology Expertise</p>
+          <ul>
+            <li><img  src="img/key1.png" class="img-responsive"></li>
+            <li><img  src="img/key2.png" class="img-responsive"></li>
+            <li><img  src="img/key3.png" class="img-responsive"></li>
+            <li><img  src="img/key4.png" class="img-responsive"></li>
+            <li><img  src="img/key5.png" class="img-responsive"></li>
+            <li><img  src="img/key6.png" class="img-responsive"></li>
+            <li><img  src="img/key7.png" class="img-responsive"></li>
+            <li><img  src="img/key8.png" class="img-responsive"></li>
+        </div>
+       </section>
        <section id="benefits">
        		<div class="container">
        			<p class="sectionTitle">Some Achieved Benefits <br><span>Of our Costumers</span> </p>
