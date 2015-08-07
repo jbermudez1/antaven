@@ -23,6 +23,6 @@
               <li><a href="#">PORTFOLIO</a></li>
               <li><a href="benefits.php">BENEFITS</a></li>
                <li><a href="joinus.php">JOIN US</a></li>
-              <li>CONTACTS</li>
+              <li><a href="contacts.php">CONTACTS</a></li>
        			</ul>
 </div>

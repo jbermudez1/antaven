@@ -18,7 +18,7 @@
        </section>
        <section id="aboutus">
        		<div class="container">
-            <div class="tit espacio"><a href="services.php">JOIN US</div>
+            <div class="tit espacio">JOIN US</div>
             <div class="row">
               <div class="col-sm-8">
                 <form>

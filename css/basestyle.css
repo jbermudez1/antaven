@@ -170,6 +170,12 @@ ul
   font-size: 3em;
   font-weight: bold;
 }
+.margen1 {
+  padding-top: 2em;
+}
+.sales {
+  background-color: #f6f6f6;
+}
 #aboutus {
   padding-top: 2em;
   padding-bottom: 2em;
@@ -220,6 +226,15 @@ ul
 }
 #aboutus .titulo {
   font-size: 1.4em;
+}
+#aboutus .mapa {
+  font-size: 1.2em;
+}
+#aboutus .fq {
+  font-size: 1.2em;
+}
+#notlist {
+  text-align: center;
 }
 .media .glyphicon {
   font-size: 3em;
