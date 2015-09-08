@@ -10,8 +10,8 @@
   </head>
 
   <body>
-       <div class="quote">
-          Free Quote
+      <div class="quote">
+          <a href="freequote.php">Free Quote</a>
        </div>
        <section class="banner2">
        		<?php include('header.php') ?>

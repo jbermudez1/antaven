@@ -12,7 +12,7 @@
 
   <body>
        <div class="quote">
-          Free Quote
+          <a href="freequote.php">Free Quote</a>
        </div>
        <section class="banner2">
        		<?php include('header.php') ?>

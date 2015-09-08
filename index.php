@@ -13,7 +13,7 @@
 
   <body>
        <div class="quote">
-          Free Quote
+          <a href="freequote.php">Free Quote</a>
        </div>
        
        <section id="banner" >
