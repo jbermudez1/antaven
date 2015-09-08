@@ -249,7 +249,10 @@ footer {
   color: #fff;
 }
 footer a {
-  color: #ff0;
+  color: #58acd1;
+}
+footer a:hover {
+  color: #fff;
 }
 footer img {
   width: 50%;
@@ -289,8 +292,20 @@ footer .view:hover {
   padding-left: 1.5em;
   padding-right: 1.5em;
   padding-top: 1.5em;
+  -webkit-transform: translateX(-100%);
+  -moz-transform: translateX(-100%);
+  -o-transform: translateX(-100%);
+  -ms-transform: translateX(-100%);
+  transform: translateX(-100%);
 }
-.xsmenu .botonmenu {
+.show {
+  -webkit-transform: translateX(0);
+  -moz-transform: translateX(0);
+  -o-transform: translateX(0);
+  -ms-transform: translateX(0);
+  transform: translateX(0);
+}
+.show .botonmenu {
   font-size: 2em;
   text-align: right;
 }
