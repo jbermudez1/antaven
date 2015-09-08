@@ -29,7 +29,7 @@
                   <div class="col-xs-6">
                     <p class="titulo">Services</p>
                     <ul>
-                      <li><a href="aplication.php">Custome Software Development.</a></li>
+                      <li><a href="aplication.php">Custom Software Development.</a></li>
                       <li><a href="aplication.php">Web Application Development.</a></li>
                       <li><a href="aplication.php">Mobile Application Development.</a></li>
                       <li><a href="softwaretesting.php">Software Testing and Quality Assurance.</a></li>
@@ -37,7 +37,7 @@
                     </ul> 
                   </div>
                   <div class="col-xs-6">
-                     <p class="titulo">Portfolio</p>
+                     <p class="titulo">Industries</p>
                     <ul>
                       <li><a href="#">Information Technology.</a></li>
                       <li><a href="#">Hospitality & Travel.</a></li>
@@ -50,10 +50,10 @@
                 </div>
               </div>
               <div class="col-sm-2 dos">
-                <p>Antaven Street 435. Culiacán, Sin.</p>
-                <p><span class="titulo">Phone:</span><br>+1 (515) 779-3658  / 011 52 (667) 1023950</p>
+                <p>Antaven Street 435. Miami.</p>
+                <p><span class="titulo">Phone:</span><br>+1 (515) 779-3658<br>+1 52 (667) 1023950</p>
                 <p><a href="index.php">www.antaven.com</a></p>
-                <p><span class="titulo">E-Mail:</span><br>info@antaven.com / hr@antaven.com</p>
+                <p><span class="titulo">E-Mail:</span><br>info@antaven.com<br>hr@antaven.com</p>
                  <p>Antaven 2015.</p><small>Powered by <a href="http://proyeccione.com">Proyeccione</a></small>
                 <p class="titulo">Follow Us</p>
                 <ul class="sm">

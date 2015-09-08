@@ -47,8 +47,9 @@
                 </form>
               </div>
               <div class="col-sm-4">
-                  <p>Antaven Street 435. Culiacán, Sin.</p>
-                <p><span class="titulo">Phone:</span><br>+1 (515) 779-3658  / 011 52 (667) 1023950</p>
+                  <p>Av. Morelos # 135 Sur, Col. Centro.<br>Culiacán, Sinaloa, C.P. 80000.<br>Mexico.
+                  </p>
+                <p><span class="titulo">Phone:</span><br>+1 (515) 779-3658 / +1 52 (667) 102-3950</p>
                  <p><span class="titulo">E-Mail:</span><br>info@antaven.com / hr@antaven.com</p>
                 <p><a href="index.php">www.antaven.com</a></p>
                

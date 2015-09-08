@@ -18,7 +18,7 @@
        </section>
        <section id="aboutus">
        		<div class="container">
-            <div class="tit espacio">CONTACTS</div>
+            <div class="tit espacio">CONTACT US</div>
             <div class="row">
               <div class="col-sm-6">
                 <p class="tit">HEADQUARTERS</p>
@@ -28,7 +28,7 @@
                     <img  src="img/busa.png" class="img-responsive">
                   </div>
                   <div class="col-sm-7 mapa">
-                    <p>+1 515 779-3658</p>
+                    <p>+1 (515) 779-3658</p>
                     <p>usa@antaven.com</p>
                     <p>920 SW 30th Street</p>
                     <p>Fort Lauderdale, FL 33325-2345</p>
@@ -39,13 +39,13 @@
                 </div>
               </div>
               <div class="col-sm-6">
-                <p class="tit">DEVELOPMENT FACILITIES A GLOBAL DEVELOPMENT CENTER</p>
+                <p class="tit">GLOBAL DEVELOPMENT CENTER</p>
                 <div class="row">
                   <div class="col-sm-5">
                     <img  src="img/bmexico.png" class="img-responsive">
                   </div>
                   <div class="col-sm-7 mapa">
-                    <p>011 52 (667) 102-3950</p>
+                    <p>+1 52 (667) 102-3950</p>
                     <p>mex@antaven.com</p>
                     <p>Av. Morelos # 135 Sur, Col. Centro</p>
                     <p>Culiacán, 80000, México</p>
