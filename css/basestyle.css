@@ -27,8 +27,14 @@ a:hover {
   border: solid #fff 2px;
   border-style: dashed;
 }
+.quote a:link {
+  color: #fff;
+}
+.quote a:visited {
+  color: #fff;
+}
 #arriba {
-  background-color: #b4b4b4;
+  background-color: #123450;
   text-align: right;
   padding-top: 1em;
 }
